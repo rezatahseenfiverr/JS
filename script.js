@@ -62,12 +62,12 @@ alert("My Name") ;
 
 var FirstNumber = 10 ;
 
-var SecontNumber = 10 ;
+var SecondNumber = 10 ;
 
-console.log(FirstNumber+SecontNumber) ;
+console.log(FirstNumber+SecondNumber) ;
 
 // 2nd way:
 
-var Sum = FirstNumber+SecontNumber ;
+var Sum = FirstNumber+SecondNumber ;
 
 console.log(Sum)
