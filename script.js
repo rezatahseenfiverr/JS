@@ -56,7 +56,7 @@ alert("My Name") ;
 
 // 6.Take- two variables, the first number, and the second number, and then print their sum on the console.
 
-// A: We can do it in 2 ways 
+// A: We can do it in 2 ways. 
 
 // 1st way:
 
